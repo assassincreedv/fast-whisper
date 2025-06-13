@@ -194,5 +194,4 @@ cython_debug/
 .cursorindexingignore
 
 .venv
-whisper_env
 .idea
